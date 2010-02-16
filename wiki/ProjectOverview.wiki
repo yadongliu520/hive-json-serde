@@ -1,4 +1,5 @@
 #summary Overview of this JSON SerDe for Hive project
+#labels Featured
 
 = Overview =
 
