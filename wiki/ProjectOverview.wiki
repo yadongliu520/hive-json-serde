@@ -24,4 +24,4 @@ The JSON library I used is the standard one found at [http://www.json.org/java/i
 
 At the present time, the SerDe has the following limitations:
  * Cannot be used to write JSON files (need to implement Serialization: Issue #1)
- * Cannot handle complex tables/JSON files (Issue #2)
+ * Limited support for complex tables/JSON files (Issue #2)
