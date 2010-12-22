@@ -34,4 +34,4 @@ The following steps can be used to read this data:
 
 The table does not have to have the same columns as the JSON files, and vice-versa. If the table has a column that does not exist in the JSON object, it will have a NULL value. If the JSON file contains fields that are not columns in the table, they will be ignored and not visible to the table.
 
-Please remember that columns names in Hive are case-insensitive, so a JSON object with two field names "field1" and "FiElD1" will match the same column.
+Please remember that columns names in Hive are case-insensitive, so a JSON object with two field names "field1" and "!FiElD1" will match the same column.
