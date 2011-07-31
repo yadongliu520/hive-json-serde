@@ -16,7 +16,7 @@
 
 Unfortunately, as at the time of writing, Hive is unable to read and write data in [http://www.json.org/ JSON] format.
 
-To remedy this, I have created a JSON SerDe available here as source or as a JAR file you can add (See [GettingStarted]).
+To remedy this, I have created a JSON !SerDe available here as source or as a JAR file you can add (See [GettingStarted]).
 
 The JSON library I used is the standard Java one found at [http://www.json.org/java/index.html json.org]. 
 
